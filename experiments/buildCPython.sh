@@ -1,3 +1,5 @@
+#!/bin/bash
+set -ex
 
 BASE_DIR=`pwd`
 INSTALL_PATH=/root/anaconda3

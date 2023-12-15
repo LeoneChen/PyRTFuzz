@@ -1,3 +1,9 @@
 [submodule "libfuzzer"]
 	path = libfuzzer
 	url = git@github.com:LeoneChen/libFuzzer.git
+[submodule "cpython/Python-3.8.15"]
+	path = cpython/Python-3.8.15
+	url = git@github.com:python/cpython.git
+[submodule "atheris"]
+	path = atheris
+	url = git@github.com:LeoneChen/atheris.git
