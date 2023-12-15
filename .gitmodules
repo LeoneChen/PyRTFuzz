@@ -1,0 +1,3 @@
+[submodule "libfuzzer"]
+	path = libfuzzer
+	url = git@github.com:LeoneChen/libFuzzer.git
