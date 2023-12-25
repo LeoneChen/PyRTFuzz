@@ -1,1 +1,8 @@
 *.DS_Store
+build
+*.egg-info
+*.log
+Temp
+*.pyc
+seeds_python3.8.15
+*.log

@@ -1,4 +1,4 @@
-
+#!/bin/bash
 BASE_DIR=`pwd`
 
 let INDEX=1

@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "/home/chenliheng/anaconda3/envs/PyRTFuzz/lib/python3.8/fuzzloop.py",
+            "args": [
+                "-pyscript=seeds_python3.8.15"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "cwd": "/home/chenliheng/PyRTFuzz/experiments",
+            "stopOnEntry": true
+        }
+    ]
+}
